@@ -10,3 +10,8 @@
     
 ### Random
     aws ec2 = digital ocean droplets 
+
+### Security & SHH Keys
+    - Dictionary attack: a technique for defeating a cipher or authentication mechanism by trying to determine its decryption key or passphrase by trying hundreds or sometimes millions of likely possibilities, such as words in a dictionary
+    - MD5, SHA1, SHA256: Some hashing algorithms
+    - Hasing + SALT: SALT is a random string added to the password before hashing. This makes it harder to crack the password.

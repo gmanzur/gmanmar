@@ -1,0 +1,1 @@
+On the look for a job you run into companies asking for X years of experience on certain technologies. On many cases this can be necesary but for most cases what you really need is someone experienced on learning and on problem solving, not the exact tech stack you work with 
